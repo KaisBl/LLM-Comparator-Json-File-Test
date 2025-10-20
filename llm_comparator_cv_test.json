@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "source_path": "cv_screening_test_run",
+        "custom_fields_schema": []
+    },
+    "models": [
+        {
+            "name": "Gemini"
+        },
+        {
+            "name": "Claude"
+        }
+    ],
+    "examples": [
+        {
+            "input_text": "Summarize this CV for a data analyst role.",
+            "tags": [
+                "CV Screening"
+            ],
+            "output_text_a": "Candidate has 5 years of experience in data analysis, proficient in SQL and Python.",
+            "output_text_b": "This candidate worked in analytics and knows Python and SQL.",
+            "score": 1.0,
+            "individual_rater_scores": [],
+            "custom_fields": {}
+        },
+        {
+            "input_text": "Extract key skills from this CV.",
+            "tags": [
+                "CV Screening"
+            ],
+            "output_text_a": "Skills: Python, SQL, Tableau, Machine Learning.",
+            "output_text_b": "Key skills include Python and SQL.",
+            "score": 1.5,
+            "individual_rater_scores": [],
+            "custom_fields": {}
+        }
+    ]
+}
