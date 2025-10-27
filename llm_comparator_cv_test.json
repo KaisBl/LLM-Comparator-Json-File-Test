@@ -19,54 +19,7 @@
     ],
     "examples": [
         {
-            "input_text": "Tu es un expert en recrutement chez PwC Tunisie. Génère UNIQUEMENT la description de poste finale, sans aucune introduction ni phrase de présentation.
- 
-                        CONTEXTE ENTREPRISE :
-                        - Entreprise : PwC Tunisie (PricewaterhouseCoopers)
-                        - Localisation : Tunis, Tunisie
-                        - Réseau international PwC présent dans 150+ pays
-                        - Leader mondial en audit, conseil et services fiscaux
-                        - Culture d'entreprise axée sur l'excellence, l'innovation et le développement des talents
- 
-                        INFORMATIONS DU POSTE :
-                        - Titre du poste : AI Engineer
-                        - Département/Équipe : Technology Acceleration Center Tunisia (TAC)
-                        - Niveau d'expérience : Débutant (0-2 ans)
-                        - Localisation : Tunis, Tunisie
-                        - Mode de travail : Hybride
-                        - Type de contrat : CDI
-                        - Compétences techniques requises : {Python R SAS LLMs rag prompt engineering agentic ai}
-                        - Soft skills recherchés : { "Travail d'équipe","Communication", "Résolution de problèmes"}
-                        - Responsabilités principales : {"À définir par l'IA selon le poste et le département"}
-                        - Avantages PwC : {      "Formation continue et développement professionnel", "Programme de mentorat PwC", "Plan de carrière structuré", "Mobilité internationale possible"}
- 
- 
-                        EXIGENCES DE LA DESCRIPTION :
-                        - Commencer DIRECTEMENT par le titre du poste et le contenu
-                        - NE PAS inclure de phrase d'introduction comme "Voici une description..."
-                        - NE PAS expliquer ce que tu vas faire
-                        - Format professionnel avec sections claires
-                        - Langage inclusif pour les deux sexes
-                        - Aligné avec la marque employeur PwC
-                        - Optimisé pour LinkedIn et plateformes de recrutement
-                        - En français professionnel
- 
-                        SECTIONS OBLIGATOIRES :
-                        1. Titre du poste et département (ex: "AI Engineer - Data & Analytics")
-                        2. À propos de PwC Tunisie
-                        3. Mission du département
-                        4. Description du poste et impact
-                        5. Responsabilités principales (liste à puces)
-                        6. Compétences et qualifications requises
-                        7. Profil recherché
-                        8. Ce que PwC Tunisie vous offre
-                        9. Processus de recrutement
- 
-                        EXIGENCES SPÉCIFIQUES PROFIL :
-                        - Pour les postes d'ingénieur data, consultant data, analyste data, AI Engineer, Data Scientist, ou tout poste en relation avec les données :
-                        * Diplôme d'une école d'ingénieur en statistiques, analyse de l'information, informatique ou domaine équivalent (Niveau Bac+5 ou équivalent)
-                        * Formation en data science, machine learning, ou analyse de données
-                        - Pour les autres postes : préciser les exigences académiques appropriées.",
+            "input_text": "Tu es un expert en recrutement chez PwC Tunisie. Génère UNIQUEMENT la description de poste finale, sans aucune introduction ni phrase de présentation.\n\n                        CONTEXTE ENTREPRISE :\n                        - Entreprise : PwC Tunisie (PricewaterhouseCoopers)\n                        - Localisation : Tunis, Tunisie\n                        - Réseau international PwC présent dans 150+ pays\n                        - Leader mondial en audit, conseil et services fiscaux\n                        - Culture d'entreprise axée sur l'excellence, l'innovation et le développement des talents\n\n                        INFORMATIONS DU POSTE :\n                        - Titre du poste : AI Engineer\n                        - Département/Équipe : Technology Acceleration Center Tunisia (TAC)\n                        - Niveau d'expérience : Débutant (0-2 ans)\n                        - Localisation : Tunis, Tunisie\n                        - Mode de travail : Hybride\n                        - Type de contrat : CDI\n                        - Compétences techniques requises : {Python R SAS LLMs rag prompt engineering agentic ai}\n                        - Soft skills recherchés : { \"Travail d'équipe\",\"Communication\", \"Résolution de problèmes\"}\n                        - Responsabilités principales : {\"À définir par l'IA selon le poste et le département\"}\n                        - Avantages PwC : {      \"Formation continue et développement professionnel\", \"Programme de mentorat PwC\", \"Plan de carrière structuré\", \"Mobilité internationale possible\"}\n\n\n                        EXIGENCES DE LA DESCRIPTION :\n                        - Commencer DIRECTEMENT par le titre du poste et le contenu\n                        - NE PAS inclure de phrase d'introduction comme \"Voici une description...\"\n                        - NE PAS expliquer ce que tu vas faire\n                        - Format professionnel avec sections claires\n                        - Langage inclusif pour les deux sexes\n                        - Aligné avec la marque employeur PwC\n                        - Optimisé pour LinkedIn et plateformes de recrutement\n                        - En français professionnel\n\n                        SECTIONS OBLIGATOIRES :\n                        1. Titre du poste et département (ex: \"AI Engineer - Data & Analytics\")\n                        2. À propos de PwC Tunisie\n                        3. Mission du département\n                        4. Description du poste et impact\n                        5. Responsabilités principales (liste à puces)\n                        6. Compétences et qualifications requises\n                        7. Profil recherché\n                        8. Ce que PwC Tunisie vous offre\n                        9. Processus de recrutement\n\n                        EXIGENCES SPÉCIFIQUES PROFIL :\n                        - Pour les postes d'ingénieur data, consultant data, analyste data, AI Engineer, Data Scientist, ou tout poste en relation avec les données :\n                        * Diplôme d'une école d'ingénieur en statistiques, analyse de l'information, informatique ou domaine équivalent (Niveau Bac+5 ou équivalent)\n                        * Formation en data science, machine learning, ou analyse de données\n                        - Pour les autres postes : préciser les exigences académiques appropriées.",
             "tags": [
                 "CV Screening"
             ],
